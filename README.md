@@ -19,8 +19,8 @@ I developed a comprehensive project in Tableau, creating multiple dashboards and
 
 1. Create a sheet with a line chart showing the % of total share of CO2 by year for the top 10 countries using your TOP N parameter (remove any null value countries)
 2. Create a sheet with a map at country level using Co2 Per Capita for the year 2021 only (fix any country/region errors, remove null value countries)
-3. Create a sheet with a scatter plot comparing Co2 and population at country level, with bubbles sized by Temperature Change From Co2 for the year 2021 (BONUS: Add a linear regression trend line)
-4. Color all 3 visualizations using Co2 per capita and apply a divergent color scale.
+3. Create a sheet with a scatter plot comparing Co2 and population at the country level, with bubbles sized by Temperature Change From Co2 for the year 2021 (BONUS: Add a linear regression trend line)
+4. Color all 3 visualizations using Co2 per capita and apply a divergent colour scale.
 
 # Objective 3
 
@@ -31,8 +31,13 @@ I developed a comprehensive project in Tableau, creating multiple dashboards and
 5. Do you notice any interesting patterns or trends? What insights do you find when looking at the global Co2 impact and trends?
 
 # Dashboard 
-![image](https://github.com/user-attachments/assets/5ff71bdf-fe7b-41b1-a2c5-7b451a0a98c9)
+![image](https://github.com/user-attachments/assets/5ff71bdf-fe7b-41b1-a2c5-7b451a0a98c9) 
 
+# Project Insights 
+- Africa's CO2 per capita is very low compared to the other country
+- China is rising high but increasing proportionally 
+- According to our scatter plot India and the USA are in the inversive position, but they are not following the curve.     
+- The USA is massively overcontributing CO2 consumption.
 
 
 
